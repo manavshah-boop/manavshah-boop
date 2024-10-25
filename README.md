@@ -1,7 +1,7 @@
 # Hello, I'm Manav Shah! 👋
 
 ## About Me
-I'm a senior at Purdue University studying Computer Engineering with an interest in full-stack development and learning new technologies.
+I'm a recent graduate from Purdue University with a B.S. in Computer Engineering with an interest in full-stack development and learning new technologies.
 
 - 🔭 I’m currently working on developing a dashboard for the IoT and Smart Manufacturing lab at Purdue.
 - 🌱 I’m constantly learning and exploring new technologies to enhance my skills.

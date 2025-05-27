@@ -3,7 +3,7 @@
 ## About Me
 I'm a recent graduate from Purdue University with a B.S. in Computer Engineering with an interest in full-stack development and learning new technologies.
 
-- 🔭 I’m currently working on building a mobile golf assistant that maps hazards, calculates distances, and provides LLM-based shot recommendations.
+- 🔭 I’m currently building a mobile golf assistant that maps hazards, calculates distances, and provides LLM-based shot recommendations.
 - 🌱 I’m constantly learning and exploring new technologies to enhance my skills.
 - 💼 Seeking opportunities to contribute to meaningful projects and collaborate with fellow developers.
 

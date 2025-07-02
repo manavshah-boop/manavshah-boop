@@ -1,32 +1,68 @@
-# Hello, I'm Manav Shah! 👋
+# Hello, I'm Manav Shah
 
 ## About Me
-I'm a recent graduate from Purdue University with a B.S. in Computer Engineering with an interest in full-stack development and learning new technologies.
+I am a Software Engineer with a degree in Computer Engineering from Purdue University. I have experience delivering MVP applications, designing APIs, managing databases, and building both mobile and web applications. I enjoy developing intuitive user experiences and solving real-world problems with well-designed software.
 
-- 🔭 I’m currently building a mobile golf assistant that maps hazards, calculates distances, and provides LLM-based shot recommendations.
-- 🌱 I’m constantly learning and exploring new technologies to enhance my skills.
-- 💼 Seeking opportunities to contribute to meaningful projects and collaborate with fellow developers.
+I am currently seeking opportunities to contribute to meaningful projects as a full-stack or backend engineer.
 
-## Personal Projects
+---
 
-### [Paper Trading](https://github.com/manavshah-boop/PaperTrading)
-This full-stack crypto trading web app is designed to provide an immersive and educational experience for cryptocurrency enthusiasts, traders, and beginners alike. By offering a risk-free environment to practice trading strategies and explore the world of cryptocurrencies, the platform aims to empower users with valuable insights and hands-on experience.
+## Professional Experience
 
-### [Email Maestro](https://github.com/manavshah-boop/EmailMaestro)
-Email Maestro is a Java-based email management automation tool, utilizing the IMAP protocol to streamline email handling processes and reduce manual effort by over 50%.  Implemented secure access through IMAP over SSL for enhanced data security, and developed a user-friendly GUI using JavaFX for improved usability and visual aesthetics.
+**Software Engineer**  
+*Orthopedic Wellness Laboratories*  
+September 2024 – Present  
+- Implemented orthopedic device interface features using Python and C++ to improve usability and reliability.  
+- Developed a Python emulator for encoder movement to support validation testing.  
+- Introduced a bidirectional handshake in C++ for robust device communication.  
+- Built unit tests with unittest for code quality and regression safety.  
+- Improved SQL-based reporting for accurate real-time angle tracking.
 
-### [Playlist Recs](link-to-repo)
-Playlist Recs is a user-friendly ReactJS web app that delivers personalized song recommendations and captivating music stats. With Playlist Recs, you can easily create a custom playlist tailored to your taste. Simply log in, select 5 of your favorite artists, genres, or songs to set the mood, and let the app do the rest.
+**Software Engineering Intern**  
+*Unify*  
+May 2023 – August 2023  
+- Extended Ivy's REST API in Python to improve interoperability across ML frameworks.  
+- Updated backend logic to handle JSON and XML payloads.  
+- Implemented 20+ new API endpoints for PyTorch and TensorFlow integration.  
+- Created unit and integration tests using pytest and hypothesis.
+
+**Coding Mentor**  
+*Mighty Coders*  
+September 2019 – April 2022  
+- Mentored over 50 students in fundamental programming concepts.  
+- Designed and delivered a Java curriculum with over 10 mini-projects to teach OOP.
+
+---
+
+## Selected Projects
+
+### [Golf Course GPS Caddy](https://github.com/manavshah-boop/Golf-GPS-Caddy-App.git)
+A mobile golf assistant for real-time course navigation and shot planning.  
+- Python backend with FastAPI handling real-time game state and session management.  
+- React Native frontend for iOS and Android with interactive map visualization.  
+- GeoJSON course modeling and planned AI-powered caddy recommendations.
+
+### [Cryptocurrency Paper Trading App](https://github.com/manavshah-boop/PaperTrading)
+A full-stack web app for simulated cryptocurrency trading and portfolio tracking.  
+- RESTful API in Node.js with MySQL on Azure.  
+- User-friendly frontend for portfolio management and trading.
+
+### [School Attendance and Scheduling System](https://github.com/aayaan99/SchoolSystem)
+A distributed Java-based system for managing attendance and scheduling.  
+- JDBC-based database interactions.  
+- Client-server architecture using TCP/IP sockets for real-time updates.
+
+---
 
 ## Skills
-- **Languages:** Python, Java, C, HTML/CSS/JS 
-- **Frontend:** Vue.js, React.js, Bootstrap
-- **Backend:** Node.js, Express.js, Django
-- **Databases:** MySQL
-- **Tools & Others:** Version Control, RESTful APIs, CI/CD, 
 
-## Let's Connect!
-- 📫 Feel free to reach out to me at mfshah@purdue.edu
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/manavshah-1)
+**Languages and Tools:** Python, Java, JavaScript, SQL, C++, React Native, Node.js, FastAPI, REST APIs, Git
 
-Thanks for visiting my GitHub profile! 😊
+**Concepts:** Data Structures and Algorithms, Object-Oriented Programming, Database Management, Unit and Functional Testing
+
+---
+
+## Let's Connect
+Email: mfshahx@gmail.com  
+LinkedIn: [linkedin.com/in/manav-shah1](https://www.linkedin.com/in/manav-shah1)  
+GitHub: [github.com/manavshah-boop](https://github.com/manavshah-boop)

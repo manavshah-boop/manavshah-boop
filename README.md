@@ -1,17 +1,31 @@
 # Hello, I'm Manav Shah
 
 ## About Me
-I am a Software Engineer with a degree in Computer Engineering from Purdue University. I have experience delivering MVP applications, designing APIs, managing databases, and building both mobile and web applications. I enjoy developing intuitive user experiences and solving real-world problems with well-designed software.
-
-I am currently seeking opportunities to contribute to meaningful projects as a full-stack or backend engineer.
+Software Engineer specializing in cloud-native, distributed data pipelines, and production reliability, with experience across agentic 
+decision platforms, machine learning infrastructure, and simulation platforms. Proven ability to design scalable systems, own 
+production infrastructure end-to-end, and improve system reliability through automated testing and observability.
 
 ---
 
 ## Professional Experience
 
+**Software Engineer**
+*Keystone AI*  
+December 2025 – Present  
+- Owned Python platform services responsible for model execution, solution orchestration, and simulation workflows, supporting 
+an end-to-end agentic decision-making pipeline 
+- Engineered a YAML-driven execution engine for a production inventory simulation system, replacing rigid workflows with a 
+modular framework that improved iteration speed and reproducibility for scientists running experiments 
+- Benchmarked internal ML forecasting models against industry baselines to surface actionable metrics that informed model 
+iteration priorities 
+- Drove improved reliability of evaluation system by increasing test coverage from 80% to 95%+, identifying several critical 
+bugs impacting metric generation output 
+- Deployed and maintained scalable AWS infrastructure (S3, ECR, RDS, Route53) with Docker, Pulumi, YAML, and CI/CD 
+pipelines, supporting delivery and observability of simulation services 
+
 **Software Engineer**  
 *Orthopedic Wellness Laboratories*  
-September 2024 – Present  
+September 2024 – December 2025  
 - Implemented orthopedic device interface features using Python and C++ to improve usability and reliability.  
 - Developed a Python emulator for encoder movement to support validation testing.  
 - Introduced a bidirectional handshake in C++ for robust device communication.  
@@ -56,13 +70,13 @@ A distributed Java-based system for managing attendance and scheduling.
 
 ## Skills
 
-**Languages and Tools:** Python, Java, JavaScript, SQL, C++, React Native, Node.js, FastAPI, REST APIs, Git
+**Languages and Tools:** AWS, Python, YAML, Pulumi, Git, SQL, Node.js, REST APIs, Pytest, GitHub Actions, CI/CD, Docker
 
-**Concepts:** Data Structures and Algorithms, Object-Oriented Programming, Database Management, Unit and Functional Testing
+**Concepts:** Data structures & algorithms, evaluation pipelines, automated testing, unit/integration testing, observability, 
+infrastructure as code, agentic systems, AI workflow orchestration, OOP, systems design, LLM integration
 
 ---
 
 ## Let's Connect
 Email: mfshahx@gmail.com  
-LinkedIn: [linkedin.com/in/manav-shah1](https://www.linkedin.com/in/manav-shah1)  
-GitHub: [github.com/manavshah-boop](https://github.com/manavshah-boop)
+LinkedIn: [linkedin.com/in/manav-shah1](https://www.linkedin.com/in/manav-shah1) 
